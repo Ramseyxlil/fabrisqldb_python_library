@@ -97,7 +97,7 @@ Common Issues and Solutions:
 5. ✅ Test Your Connection
    - Use: db.test_connection() to verify everything works
 
-For more help, visit: https://github.com/your-username/fabricease
+For more help, visit: https://github.com/Ramseyxlil/fabrisqldb_python_library
 """
     
     print(help_text)
